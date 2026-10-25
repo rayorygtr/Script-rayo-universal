@@ -1,1 +1,2 @@
 # Script-rayo-universal
+loadstring(game:HttpGet("https://pastebin.com/raw/gbmiRgDe"))()
